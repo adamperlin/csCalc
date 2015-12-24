@@ -1,0 +1,3 @@
+D:\Visual Studio Applications\csCalc\calculator\bin\Debug\calculator.exe.config
+D:\Visual Studio Applications\csCalc\calculator\obj\Debug\calculator.exe
+D:\Visual Studio Applications\csCalc\calculator\obj\Debug\calculator.pdb
