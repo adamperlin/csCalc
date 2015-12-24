@@ -55,7 +55,7 @@ namespace calculator
                 numstr = input.Split(toSplit, StringSplitOptions.RemoveEmptyEntries);
                 foreach (char c in input)
                 {
-                    if (!(char.IsDigit(c)))
+                    if (!char.IsDigit(c) && c != '.')
                     {
                         operators[i] = c;
                         i++;
