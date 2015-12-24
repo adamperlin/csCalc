@@ -63,6 +63,7 @@ namespace calculator
             this.inputBox.Name = "inputBox";
             this.inputBox.Size = new System.Drawing.Size(404, 116);
             this.inputBox.TabIndex = 1;
+            this.inputBox.KeyDown += new System.Windows.Forms.KeyEventHandler(this.checkKey);
             // 
             // clear
             // 

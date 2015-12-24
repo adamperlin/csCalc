@@ -31,7 +31,15 @@ namespace calculator
             }
            
         }
-        
+
+        private void checkKey(object sender, KeyEventArgs e)
+        {
+            if (e.KeyCode == Keys.Enter)
+            {
+                this.inputBox.Text = findResult(this.inputBox.Text);
+            }
+        }
+    
         private static string findResult(string input)
         {
             if (input.Contains("+") || input.Contains("-") || input.Contains("/") || input.Contains("*") || input.Contains("sqrt"))
