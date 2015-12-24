@@ -34,3 +34,6 @@ D:\Visual Studio Applications\csCalc\calculator\obj\Debug\calculator.csproj.Gene
 D:\Visual Studio Applications\csCalc\calculator\bin\Debug\calculator.exe
 D:\Visual Studio Applications\csCalc\calculator\bin\Debug\calculator.pdb
 D:\Visual Studio Applications\csCalc\calculator\obj\Debug\calculator.Form1.resources
+C:\Users\SAAS Student\Documents\GitHub\calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\SAAS Student\Documents\GitHub\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\SAAS Student\Documents\GitHub\calculator\calculator\obj\Debug\calculator.pdb
