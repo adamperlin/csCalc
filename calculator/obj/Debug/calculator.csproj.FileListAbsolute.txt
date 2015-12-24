@@ -1,3 +1,9 @@
 D:\Visual Studio Applications\csCalc\calculator\bin\Debug\calculator.exe.config
 D:\Visual Studio Applications\csCalc\calculator\obj\Debug\calculator.exe
 D:\Visual Studio Applications\csCalc\calculator\obj\Debug\calculator.pdb
+D:\Visual Studio Applications\csCalc\calculator\bin\Debug\calculator.exe
+D:\Visual Studio Applications\csCalc\calculator\bin\Debug\calculator.pdb
+D:\Visual Studio Applications\csCalc\calculator\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+D:\Visual Studio Applications\csCalc\calculator\obj\Debug\calculator.Form1.resources
+D:\Visual Studio Applications\csCalc\calculator\obj\Debug\calculator.Properties.Resources.resources
+D:\Visual Studio Applications\csCalc\calculator\obj\Debug\calculator.csproj.GenerateResource.Cache
