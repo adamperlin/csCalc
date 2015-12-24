@@ -1,0 +1,27 @@
+c:\users\adam\documents\visual studio 2015\Projects\calculator\calculator\bin\Debug\calculator.exe.config
+c:\users\adam\documents\visual studio 2015\Projects\calculator\calculator\bin\Debug\calculator.exe
+c:\users\adam\documents\visual studio 2015\Projects\calculator\calculator\bin\Debug\calculator.pdb
+c:\users\adam\documents\visual studio 2015\Projects\calculator\calculator\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+c:\users\adam\documents\visual studio 2015\Projects\calculator\calculator\obj\Debug\calculator.Form1.resources
+c:\users\adam\documents\visual studio 2015\Projects\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+c:\users\adam\documents\visual studio 2015\Projects\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.Cache
+c:\users\adam\documents\visual studio 2015\Projects\calculator\calculator\obj\Debug\calculator.exe
+c:\users\adam\documents\visual studio 2015\Projects\calculator\calculator\obj\Debug\calculator.pdb
+G:\calculator\calculator\bin\Debug\calculator.exe.config
+G:\calculator\calculator\obj\Debug\calculator.exe
+G:\calculator\calculator\obj\Debug\calculator.pdb
+G:\calculator\calculator\bin\Debug\calculator.exe
+G:\calculator\calculator\bin\Debug\calculator.pdb
+G:\calculator\calculator\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+G:\calculator\calculator\obj\Debug\calculator.Form1.resources
+G:\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+G:\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.Cache
+D:\calculator\calculator\bin\Debug\calculator.exe.config
+D:\calculator\calculator\obj\Debug\calculator.exe
+D:\calculator\calculator\obj\Debug\calculator.pdb
+D:\calculator\calculator\bin\Debug\calculator.exe
+D:\calculator\calculator\bin\Debug\calculator.pdb
+D:\calculator\calculator\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+D:\calculator\calculator\obj\Debug\calculator.Form1.resources
+D:\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+D:\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.Cache
