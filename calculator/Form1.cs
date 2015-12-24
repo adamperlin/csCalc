@@ -17,73 +17,26 @@ namespace calculator
             InitializeComponent();
         }
 
-        private static string input = "";
-        //private static double numinput = 0.0;
-
-            //handler
-        private void button_clicked(object sender, EventArgs e)
+        private void EvalExpression(object sender, EventArgs e)
         {
             switch (((Button)sender).Name)
             {
-                case "button1":
-                    this.textBox1.Text += "1";
-                    break;
-                case "button2":
-                    this.textBox1.Text += "2";
-                    break;
-                case "button3":
-                    this.textBox1.Text += "3";
-                    break;
-                case "button4":
-                    this.textBox1.Text += "4";
-                    break;
-                case "button5":
-                    this.textBox1.Text += "5";
-                    break;
-                case "button6":
-                    this.textBox1.Text += "6";
-                    break;
-                case "button7":
-                    this.textBox1.Text += "7";
-                    break;
-                case "button8":
-                    this.textBox1.Text += "8";
-                    break;
-                case "button9":
-                    this.textBox1.Text += "9";
-                    break;
-                case "button0":
-                    this.textBox1.Text += "0";
-                    break;
-                case "enterButton":
-                    input = this.textBox1.Text;
-                    this.textBox1.Text = "";
-                  string res = findResult(input);
-                    this.textBox1.Text = res;
-                    break;
-                case "plusButton":
-                    this.textBox1.Text += "+";
-                    break;
-                case "minusButton":
-                    this.textBox1.Text += "-";
-                    break;
-                case "multiplyButton":
-                    this.textBox1.Text += "*";
-                    break;
-                case "divideButton":
-                    this.textBox1.Text += "/";
-                    break;
+                case "eval":
 
-
-
+                    this.inputBox.Text = findResult(this.inputBox.Text);
+                    break;
+                case "clear":
+                    this.inputBox.Text = "";
+                    break;
             }
+           
         }
-
-      private static string findResult (string input)
+        
+        private static string findResult(string input)
         {
             if (input.Contains("+") || input.Contains("-") || input.Contains("/") || input.Contains("*") || input.Contains("sqrt"))
             {
-                
+
                 int i = 0;
                 int a = 0;
                 double output = 0.0;
@@ -99,7 +52,7 @@ namespace calculator
                         operators[i] = c;
                         i++;
                     }
-                    
+
                 }
                 i = 0;
                 foreach (string s in numstr)
@@ -141,22 +94,22 @@ namespace calculator
                     }
                     foreach (double n in finalnumbers)
                     {
-                        
-                            switch (operators[inc])
-                            {
-                                case '+':
-                                    output += n;
-                                    break;
-                                case '-':
-                                    output -= n;
-                                    break;
-                            }
-                        
+
+                        switch (operators[inc])
+                        {
+                            case '+':
+                                output += n;
+                                break;
+                            case '-':
+                                output -= n;
+                                break;
+                        }
+
 
                         inc++;
                     }
                     return output.ToString();
-                 
+
                 }
 
                 else
@@ -184,7 +137,7 @@ namespace calculator
                     }
                     return output.ToString();
                 }
-               
+
             }
             else
             {
@@ -193,5 +146,8 @@ namespace calculator
             }
 
         }
-      }   
+
     }
+
+   
+}
