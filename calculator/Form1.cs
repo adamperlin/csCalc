@@ -40,12 +40,13 @@ namespace calculator
                 this.inputBox.Text = findResult(this.inputBox.Text);
             }
         }
-    
-        private static string findResult(string input){
-            return Solver.Evaluate(input);
-        }
 
-      
-        
+        private string findResult(string s)
+        {
+            return Solver.Evaluate(s).ToString();
+        }
+     
+    
+       
     }
 }

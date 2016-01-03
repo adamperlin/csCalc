@@ -90,7 +90,7 @@ namespace ExpressionEvaluator
                     {
                         if (association[c].Equals("lefttoright"))
                         {
-                        output.Add(" " + operators.Pop());
+                        output.Add(operators.Pop());
                             operators.Push(c);
                         }
                         else
@@ -100,7 +100,7 @@ namespace ExpressionEvaluator
                     }
                     else
                     {
-                    output.Add(" " + operators.Pop());
+                    output.Add(operators.Pop());
                         loop(c);
                     }
                 }
@@ -164,7 +164,6 @@ namespace ExpressionEvaluator
                             val2 = numbers.Pop();
                             val1 = numbers.Pop();
                             numbers.Push(Math.Pow(val1, val2));
-
                             break;
                     }
                 }
@@ -174,10 +173,6 @@ namespace ExpressionEvaluator
         }
        
     }
-
-
-
-
     public static class Solver
     {
         public static string Evaluate(string s)
@@ -186,7 +181,6 @@ namespace ExpressionEvaluator
             p.toPostifix();
             ExpressionEvaluator.Evaluator e = new ExpressionEvaluator.Evaluator(p.output);
             return e.Evaluate().ToString();
-
         }
     }
 
