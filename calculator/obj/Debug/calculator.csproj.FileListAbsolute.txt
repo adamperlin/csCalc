@@ -7,3 +7,12 @@ D:\Visual Studio Applications\csCalc\calculator\obj\Debug\calculator.csprojResol
 D:\Visual Studio Applications\csCalc\calculator\obj\Debug\calculator.Form1.resources
 D:\Visual Studio Applications\csCalc\calculator\obj\Debug\calculator.Properties.Resources.resources
 D:\Visual Studio Applications\csCalc\calculator\obj\Debug\calculator.csproj.GenerateResource.Cache
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\XCalc\csCalc\calculator\bin\Debug\calculator.exe.config
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\XCalc\csCalc\calculator\obj\Debug\calculator.exe
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\XCalc\csCalc\calculator\obj\Debug\calculator.pdb
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\XCalc\csCalc\calculator\bin\Debug\calculator.exe
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\XCalc\csCalc\calculator\bin\Debug\calculator.pdb
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\XCalc\csCalc\calculator\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\XCalc\csCalc\calculator\obj\Debug\calculator.Form1.resources
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\XCalc\csCalc\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\XCalc\csCalc\calculator\obj\Debug\calculator.csproj.GenerateResource.Cache
