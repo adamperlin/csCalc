@@ -16,6 +16,7 @@ C:\Users\Adam\Documents\Visual Studio 2015\Projects\XCalc\csCalc\calculator\obj\
 C:\Users\Adam\Documents\Visual Studio 2015\Projects\XCalc\csCalc\calculator\obj\Debug\calculator.Form1.resources
 C:\Users\Adam\Documents\Visual Studio 2015\Projects\XCalc\csCalc\calculator\obj\Debug\calculator.Properties.Resources.resources
 C:\Users\Adam\Documents\Visual Studio 2015\Projects\XCalc\csCalc\calculator\obj\Debug\calculator.csproj.GenerateResource.Cache
+<<<<<<< HEAD
 C:\Users\SAAS Student\Documents\GitHub\calculator\calculator\bin\Debug\calculator.exe.config
 C:\Users\SAAS Student\Documents\GitHub\calculator\calculator\obj\Debug\calculator.exe
 C:\Users\SAAS Student\Documents\GitHub\calculator\calculator\obj\Debug\calculator.pdb
@@ -25,3 +26,5 @@ C:\Users\SAAS Student\Documents\GitHub\calculator\calculator\obj\Debug\calculato
 C:\Users\SAAS Student\Documents\GitHub\calculator\calculator\obj\Debug\calculator.Form1.resources
 C:\Users\SAAS Student\Documents\GitHub\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
 C:\Users\SAAS Student\Documents\GitHub\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.Cache
+=======
+>>>>>>> c7033a91d74a11a714554891532864e224470f9c

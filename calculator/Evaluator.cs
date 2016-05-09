@@ -53,6 +53,7 @@ namespace ExpressionEvaluator
             }
             private void loop (string c)
             {
+
                 double temp;
                     if (double.TryParse(c, out temp))
                     {
@@ -108,7 +109,9 @@ namespace ExpressionEvaluator
 
             private List<string> convertToSplitExp(string input)
             {
+
                 List<string> finalres = Regex.Split(input, @"(\d+\.\d+|\d+)").ToList();
+
                 finalres.RemoveAll(s => s.Equals(string.Empty));
 
                 return finalres;
